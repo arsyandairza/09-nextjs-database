@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 09 | Setup Database dan Fetching Data
 
-## Getting Started
+## Praktikum 1: Setup Database
 
-First, run the development server:
+#### Langkah 1 : Membuat project baru dengan template
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Output](docs/images/L1P1.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Langkah 2 : Membuat Akun Vercel
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Output](docs/images/L2P1.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### Langkah 3 : Koneksikan dan Deploy project Anda
 
-## Learn More
+![Output](docs/images/L3P1.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Soal 1 : Capture hasil deploy project Anda dan buatlah laporan di file `README.md.` Jelaskan apa yang telah Anda pelajari? Jangan lupa push dengan pesan commit: `"W09: Jawaban soal 1".`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+> Saya telah berhasil mendeploy project saya ke `vercel`. Yang saya pelajari menggunakan `Vercel` adalah `Deploy website atau web app secara mudah dan cepat`, dan `Vercel` akan secara otomatis deploy kode ke server mereka, dan memberikan `URL untuk mengakses website atau web app.`
