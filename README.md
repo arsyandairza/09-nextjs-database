@@ -17,3 +17,38 @@
 ### Soal 1 : Capture hasil deploy project Anda dan buatlah laporan di file `README.md.` Jelaskan apa yang telah Anda pelajari? Jangan lupa push dengan pesan commit: `"W09: Jawaban soal 1".`
 
 > Saya telah berhasil mendeploy project saya ke `vercel`. Yang saya pelajari menggunakan `Vercel` adalah `Deploy website atau web app secara mudah dan cepat`, dan `Vercel` akan secara otomatis deploy kode ke server mereka, dan memberikan `URL untuk mengakses website atau web app.`
+
+#### Langkah 4 : Membuat basis data Postgres
+
+![Output](docs/images/L4P1.png)
+
+#### Langkah 5 : Akhirnya, jalankan perintah berikut di terminal untuk `install Vercel Postgres SDK.`
+
+> `npm i --save @vercel/postgres`
+
+![Output](docs/images/L5P1.png)
+
+### Soal 2 : Capture hasil basis data Anda dan buatlah laporan di file `README.md.` Jelaskan apa yang telah Anda pelajari? Jangan lupa push dengan pesan commit: `"W09: Jawaban soal 2".`
+
+> Saya telah mempelajari bagaimana cara membuat `database dan menghubungkan dengan lokal dengan vercel`
+
+#### Langkah 6 : Melakukan seed ke basis data
+
+Selanjutnya, di file `package.json Anda,` tambahkan baris skrip seed seperti berikut:
+
+![Output](docs/images/L6P1.png)
+
+#### Langkah 7 : Apa yang terjadi ? `error` atau berhasil insert data ke `database Postgre` ?
+`Troubleshooting:` 
+> Jika Anda mengalami error karena `module dotenv `tidak ada, silakan Anda dapat menginstallnya terlebih dahulu dengan perintah`npm i --save dotenv`
+
+![Output](docs/images/L7P1.png)
+
+### Soal 3 : Capture hasil npm run seed Anda dan buatlah laporan di file `README.md.` Jelaskan apa yang telah Anda pelajari ? Jangan lupa push dengan pesan commit: `"W09: Jawaban soal 3".`
+
+![Output](docs/images/L8P1.png)
+
+
+
+
+
