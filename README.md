@@ -48,7 +48,18 @@ Selanjutnya, di file `package.json Anda,` tambahkan baris skrip seed seperti ber
 
 ![Output](docs/images/L8P1.png)
 
+#### Langkah 8 : Menjelajah Basis Data
 
+A. Buka akun `vercel` Anda, cek pada `sidenav` klik Data seperti gambar di bawah ini.
 
+![Output](docs/images/L9P1.png)
 
+B. Anda dapat melakukan `query SQL` dengan klik `tab Query.`
 
+![Output](docs/images/L10P1.png)
+
+### Soal 4 : Capture hasil query Anda dan buatlah laporan di file `README.md.` Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan! Jangan lupa push dengan pesan commit:`"W09: Jawaban soal 4".`
+
+![Output](docs/images/L11P1.png)
+
+>berikut contoh hasil query saya dimana saya memilih kolom nama dari table customers jika email customers tersebut adalah `'delba@oliveira.com'`
